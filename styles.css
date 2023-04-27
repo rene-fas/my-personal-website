@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.personal {
+  width: 200px;
+}
+.linkfig {
+  width: 100px;
+}
+figure figcaption {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.tag {
+  display: flex;
+  flex-direction: row;
+}
+
+.profilelinks {
+  display: flex;
+}
