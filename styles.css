@@ -23,3 +23,7 @@ a {
 .profilelinks {
   display: flex;
 }
+
+header {
+  display: flex;
+}
