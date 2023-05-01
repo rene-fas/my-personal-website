@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+.personal {
+  width: 200px;
+}
+.linkfig {
+  width: 100px;
+}
+figure figcaption {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.tag {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.profilelinks {
+  display: flex;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tagimage {
+  display: flex;
+}
+
+.internallinks {
+  display: flex;
+  gap: 30px;
+}
